@@ -1,6 +1,6 @@
 <div align="center">
-
-# eu sou o mororo.
+  
+# eu sou o mororo.    <img src="coolemoji.png" width="42" alt="Cool Emoji">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&lines=print(%22hello%2C+world+%F0%9F%91%8B%22))](https://git.io/typing-svg)
 
@@ -10,9 +10,9 @@
 
 `estudante • tecnologia • projetos pessoais`
 
-<br><br>
-
 </div>
+
+<br><br>
 
 ## sobre mim
 
