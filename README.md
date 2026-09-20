@@ -26,4 +26,10 @@ Uso este espaço para guardar projetos, experimentar ideias e acompanhar minha e
 
 `mororoedu`
 
+<br>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=1800&color=6E7681&center=true&vCenter=true&width=250&height=25&lines=still+building..."
+/>
+
 </div>
